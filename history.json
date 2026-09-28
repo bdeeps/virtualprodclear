@@ -1,0 +1,671 @@
+{
+  "title": "The history of virtual production",
+  "tagline": "From a projector behind a screen in 1930 to walls of LEDs that redraw a world for every move of the camera.",
+  "intro": "Film makers have always wanted to put actors in places they could not go. First they projected filmed scenery behind them, then in front of them, then replaced it with green screens and computers. Game engines, camera tracking and bright LED screens finally let the world be drawn live around the actors, lighting them as it goes.",
+  "eras": [
+    {
+      "id": "camera",
+      "name": "Screens behind the actors",
+      "from": 1927,
+      "to": 1990,
+      "color": "#ffb547",
+      "summary": "Mirrors, rear projection and front projection put filmed scenery behind actors on a stage, all in camera."
+    },
+    {
+      "id": "engine",
+      "name": "Virtual cameras and light boxes",
+      "from": 1990,
+      "to": 2019,
+      "color": "#c49bff",
+      "summary": "Game engines, tracked virtual cameras and LED light boxes let film makers see, frame and light computer worlds live."
+    },
+    {
+      "id": "volume",
+      "name": "The LED volume",
+      "from": 2019,
+      "to": 2026,
+      "color": "#38bdf8",
+      "summary": "Walls and ceilings of LEDs, run by game engines and tracked cameras, show and light the world in camera. Stages spread worldwide, India included."
+    }
+  ],
+  "events": [
+    {
+      "year": 1927,
+      "date": "1927",
+      "era": "camera",
+      "art": "studio",
+      "title": "Mirrors put actors inside tiny cities",
+      "who": "Eugen Schüfftan",
+      "where": "Babelsberg, near Berlin, Germany",
+      "country": "Germany",
+      "text": "For Metropolis, Schüfftan set a mirror at 45° in front of the camera. It reflected small model buildings, while part of its silver was scraped away so the camera could see real actors through the glass. Both were filmed in one shot.",
+      "why": "It showed that a big world could be joined to real actors inside the camera, with nothing added later.",
+      "sources": [
+        2,
+        4
+      ]
+    },
+    {
+      "year": 1930,
+      "date": "1930",
+      "era": "camera",
+      "art": "projector",
+      "key": true,
+      "title": "A projector behind the screen",
+      "who": "Fox Film Corporation",
+      "where": "Hollywood, California, USA",
+      "country": "USA",
+      "text": "Fox became the first studio to use rear projection in its films Liliom and Just Imagine. A projector behind a translucent screen played filmed scenery while actors performed in front of it. New film stock, brighter lamps and motors that kept camera and projector in step made it possible.",
+      "why": "Backgrounds could now be shot anywhere and brought onto the stage, the first 'virtual location'.",
+      "box": "uses",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1933,
+      "date": "2 March 1933",
+      "era": "camera",
+      "art": "filmreel",
+      "key": true,
+      "title": "King Kong's jungle is behind the actors",
+      "who": "Willis O'Brien and the RKO effects team",
+      "where": "RKO studios, Los Angeles, USA",
+      "country": "USA",
+      "text": "King Kong combined live actors with stop-motion monsters using rear projection. Fay Wray spent many hours in a fake tree while the animated battle was projected behind her. The team even built tiny screens into their miniature sets to project the actors into them.",
+      "why": "Rear projection became the standard way to put actors into worlds that did not exist.",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1933,
+      "date": "from 1933",
+      "era": "camera",
+      "art": "projector",
+      "title": "Three projectors for one bright picture",
+      "who": "Farciot Edouart",
+      "where": "Paramount Pictures, Hollywood, USA",
+      "country": "USA",
+      "text": "Rear projection was dim, so the picture faded on big screens. At Paramount, Edouart refined the process, for example running three projectors in sync on the same background plate to make it brighter and more even.",
+      "why": "Brightness has been the problem of every screen-based stage since, LED walls included.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1949,
+      "date": "c. 1949",
+      "era": "camera",
+      "art": "spotlight",
+      "title": "A screen that shines straight back",
+      "who": "3M's Scotchlite and early experimenters",
+      "where": "USA",
+      "country": "USA",
+      "text": "3M's Scotchlite, a sheet covered in tiny glass beads, reflects light straight back towards its source. Shortly after it was invented, people began to experiment with projecting scenery onto it from the camera side.",
+      "why": "It led to front projection, which was much brighter than rear projection.",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1950,
+      "date": "1940s–60s",
+      "era": "camera",
+      "art": "oldcar",
+      "title": "Driving without driving",
+      "who": "Studios worldwide",
+      "where": "Sound stages worldwide",
+      "country": "Worldwide",
+      "text": "For decades, most scenes of people talking in cars were shot on a stage. The actors sat in a car or a cut-down mock-up while a filmed road played on a screen behind them, and crew rocked the car to fake the bumps.",
+      "why": "Driving shots, or 'process shots', are still one of the biggest jobs for LED stages today.",
+      "box": "uses",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "20 December 1955",
+      "era": "camera",
+      "art": "projector",
+      "title": "Front projection is patented",
+      "who": "Will F. Jenkins",
+      "where": "USA",
+      "country": "USA",
+      "text": "Jenkins, better known as the science-fiction writer Murray Leinster, received two US patents for front projection. A half-silvered mirror lets a projector beside the camera throw the background along the same line as the lens onto a Scotchlite screen.",
+      "why": "The actor's own body hides the shadow they cast, so the trick is invisible to the camera.",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1963,
+      "date": "1963",
+      "era": "camera",
+      "art": "boat",
+      "title": "Front projection goes to sea",
+      "who": "Ishirō Honda and the Toho effects team",
+      "where": "Tokyo, Japan",
+      "country": "Japan",
+      "text": "The Japanese horror film Matango used front projection extensively for its scenes on a yacht, one of the first feature films to rely on it.",
+      "why": "It showed the technique could work across whole sequences, not just a few shots.",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1968,
+      "date": "April 1968",
+      "era": "camera",
+      "art": "projector",
+      "key": true,
+      "title": "Africa on a stage in England",
+      "who": "Stanley Kubrick and his effects team",
+      "where": "Elstree Studios, England, UK",
+      "country": "UK",
+      "text": "For the 'Dawn of Man' scenes of 2001: A Space Odyssey, photographs of African landscapes were front-projected onto a giant Scotchlite screen behind actors in ape costumes. The modern version of front projection was fully developed for this film.",
+      "why": "It proved a whole landscape could be put behind actors on a stage, sharp and bright.",
+      "sources": [
+        1,
+        5
+      ]
+    },
+    {
+      "year": 1978,
+      "date": "December 1978",
+      "era": "camera",
+      "art": "lens",
+      "title": "Zooming to make Superman fly",
+      "who": "Zoran Perisic",
+      "where": "Pinewood Studios, England, UK",
+      "country": "UK",
+      "text": "Perisic's Zoptic system linked zoom lenses on the camera and the front projector. Zooming both together made the actor seem to fly towards or away from the camera while the background stayed the same size.",
+      "why": "Camera and background were being controlled together, an early step towards tracking.",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1981,
+      "date": "1981",
+      "era": "camera",
+      "art": "projector",
+      "title": "Introvision adds sets and models",
+      "who": "Introvision team",
+      "where": "USA",
+      "country": "USA",
+      "text": "Introvision was a front projection system that could combine actors with both background plates and models. It was first used in Outland, putting Sean Connery into a mining colony on a moon of Jupiter.",
+      "why": "Front projection stayed in use until computer effects replaced it in the 1990s.",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1998,
+      "date": "1998",
+      "era": "engine",
+      "art": "chip",
+      "key": true,
+      "title": "A game engine is born",
+      "who": "Tim Sweeney, Epic Games",
+      "where": "Cary, North Carolina, USA",
+      "country": "USA",
+      "text": "Epic Games released the video game Unreal, running on an engine Sweeney had begun building in 1995. Other studios licensed the Unreal Engine for their own games.",
+      "why": "Twenty years later the same family of software would draw the worlds on LED walls.",
+      "box": "brainbar",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 2009,
+      "date": "December 2009",
+      "era": "engine",
+      "art": "mocap",
+      "title": "Seeing a CG world through the lens",
+      "who": "James Cameron and the Avatar team",
+      "where": "Los Angeles, USA",
+      "country": "USA",
+      "text": "Avatar was made with a 'virtual camera': James Cameron could see the motion-capture actors as their digital characters in the CG world, in real time, while he framed the shot. He compared it to a big, powerful game engine.",
+      "why": "Directors began to frame shots of virtual worlds as if they were real (see MocapClear).",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 2013,
+      "date": "April 2013",
+      "era": "engine",
+      "art": "projector",
+      "key": true,
+      "title": "A sky wrapped round the set",
+      "who": "Claudio Miranda, Joseph Kosinski and Digital Domain",
+      "where": "USA",
+      "country": "USA",
+      "text": "For Oblivion's glass sky tower set, 21 projectors threw filmed clouds onto a seamless white screen 152 m long and 13 m tall, wrapped 270° around the set. The footage was shot from a Hawaiian mountain top with three cameras side by side.",
+      "why": "It lit the glass set with its own sky and captured the reflections in camera, the core idea of an LED volume.",
+      "box": "light",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 2013,
+      "date": "4 October 2013",
+      "era": "engine",
+      "art": "spotlight",
+      "key": true,
+      "title": "The Light Box",
+      "who": "Framestore, Emmanuel Lubezki and Alfonso Cuarón",
+      "where": "England, UK",
+      "country": "UK",
+      "text": "For Gravity, actors sat inside a cube lined with LED panels, reported as 1.8 million individually controlled LEDs. The panels played the light of the Earth, the Sun and stars moving around them, so their faces were lit exactly as the CG world demanded.",
+      "why": "It proved that LED screens could be the lighting, not just the background.",
+      "box": "light",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "April 2016",
+      "era": "engine",
+      "art": "greenscreen",
+      "title": "A jungle seen live on a blue stage",
+      "who": "Jon Favreau, Rob Legato, Bill Pope and Glenn Derry's team",
+      "where": "Los Angeles Center Studios, USA",
+      "country": "USA",
+      "text": "The Jungle Book was shot entirely on stages in Los Angeles, with one young actor, Neel Sethi. A tracked 'Simulcam' system showed the camera operators a rough version of the CG jungle and animals in real time, laid over the live picture.",
+      "why": "Tracking a real camera and drawing the virtual world from its point of view, live, became normal practice.",
+      "box": "frustum",
+      "sources": [
+        10,
+        11
+      ]
+    },
+    {
+      "year": 2018,
+      "date": "October 2018",
+      "era": "engine",
+      "art": "rocket",
+      "title": "The biggest LED screen for cockpits",
+      "who": "Damien Chazelle, Paul Lambert and DNEG",
+      "where": "USA",
+      "country": "USA",
+      "text": "For the cockpit scenes of First Man, the team built an LED screen about 35 feet tall and 60 feet across (about 11 × 18 m) and played about 90 minutes of space and sky footage made by DNEG. Ryan Gosling's visor and eyes reflected it for real. The film won the Oscar for visual effects.",
+      "why": "It showed LED screens could replace green screen for whole sequences, reflections included.",
+      "sources": [
+        12,
+        13
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "July 2019",
+      "era": "engine",
+      "art": "wireframe",
+      "title": "Scouting a savanna in VR",
+      "who": "Jon Favreau, Magnopus and Unity Technologies",
+      "where": "Los Angeles, USA",
+      "country": "USA",
+      "text": "The Lion King's crew walked around its computer-made African landscapes wearing VR headsets, placing virtual cameras and lights as on a real location. The platform was built on the Unity game engine.",
+      "why": "Game engines had become film tools, and crews learned to 'shoot' inside them.",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "August 2019",
+      "era": "volume",
+      "art": "studio",
+      "title": "Game engine plus LED walls, shown live",
+      "who": "Epic Games with Lux Machina, Magnopus, Profile Studios, Quixel, ARRI and DP Matt Workman",
+      "where": "SIGGRAPH, Los Angeles, USA",
+      "country": "USA",
+      "text": "At the SIGGRAPH conference, Epic showed a small LED volume of three walls and a ceiling, run by Unreal Engine's nDisplay. A tracked camera filmed a motorcyclist in a virtual desert, with the walls lighting and reflecting on him, final pixel in camera.",
+      "why": "It showed the rest of the industry the whole in-camera VFX workflow working live.",
+      "box": "frustum",
+      "sources": [
+        15,
+        16
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "12 November 2019",
+      "era": "volume",
+      "art": "clapper",
+      "key": true,
+      "title": "The Mandalorian and StageCraft",
+      "who": "ILM, Jon Favreau, Greig Fraser, Epic Games and partners",
+      "where": "Manhattan Beach Studios, California, USA",
+      "country": "USA",
+      "text": "The first season of The Mandalorian was filmed in an LED volume about 6 m (20 ft) tall and 23 m (75 ft) across, wrapping 270° with an LED ceiling: 1,326 ROE Black Pearl panels at 2.84 mm pitch, run by Unreal Engine. More than half the season was shot this way, with about 8 frames of latency and 40% overscan.",
+      "why": "It made LED volumes famous and set the pattern that most stages still follow.",
+      "box": "volume",
+      "sources": [
+        17,
+        18,
+        22
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "2020–22",
+      "era": "volume",
+      "art": "building",
+      "key": true,
+      "title": "Lockdown makes stages boom",
+      "who": "Studios worldwide",
+      "where": "Worldwide",
+      "country": "Worldwide",
+      "text": "When the pandemic stopped travel, filming a far-off place without going there became very attractive. Most LED stages were built during or after the lockdowns. Epic Games estimated there were about 300 by October 2022, up from 3 in 2019.",
+      "why": "Virtual production went from one famous show to a normal tool, within three years.",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "February 2021",
+      "era": "volume",
+      "art": "studio",
+      "title": "StageCraft stages open in London and beyond",
+      "who": "Industrial Light & Magic",
+      "where": "Pinewood Studios, England, UK",
+      "country": "UK",
+      "text": "ILM opened a permanent StageCraft volume at Pinewood Studios near London, after a second one in Manhattan Beach, and announced another in Vancouver later that year.",
+      "why": "The idea spread from one stage in California to permanent stages on several continents.",
+      "sources": [
+        18
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "5 April 2022",
+      "era": "volume",
+      "art": "chip",
+      "title": "Unreal Engine 5",
+      "who": "Epic Games",
+      "where": "Cary, North Carolina, USA",
+      "country": "USA",
+      "text": "Epic released Unreal Engine 5, with Nanite for huge amounts of detail and Lumen for light that bounces in real time. Both help virtual worlds look real enough to be filmed directly.",
+      "why": "Better real-time pictures mean more shots can be final straight out of the camera (see CGIClear).",
+      "box": "brainbar",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "11 April 2022",
+      "era": "volume",
+      "art": "studio",
+      "key": true,
+      "title": "India's first full-service LED stage",
+      "who": "Annapurna Studios and Qube Cinema",
+      "where": "Hyderabad, Telangana, India",
+      "country": "India",
+      "text": "Annapurna Studios and Qube Cinema announced an LED virtual production stage in Hyderabad, with a curved wall about 60 ft wide and 20 ft tall (18 × 6 m) of 2.3 mm LEDs, camera tracking and Unreal Engine. Tests began in October 2022 and it has since been used for films, ads and music videos.",
+      "why": "Indian productions could now shoot in-camera VFX at home; other stages, for example in Mumbai, have followed.",
+      "box": "uses",
+      "sources": [
+        20,
+        21
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "2022",
+      "era": "volume",
+      "art": "cinema",
+      "title": "Volumes in blockbusters and big series",
+      "who": "Many productions",
+      "where": "Worldwide",
+      "country": "Worldwide",
+      "text": "LED volumes were used for films such as The Batman and series such as House of the Dragon and 1899, often for night streets, skies, cockpits and far-off landscapes.",
+      "why": "The volume became one tool among many, used where it works best.",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "March 2023",
+      "era": "volume",
+      "art": "building",
+      "title": "A record-sized stage",
+      "who": "Docklands Studios Melbourne",
+      "where": "Melbourne, Australia",
+      "country": "Australia",
+      "text": "A virtual production stage described as the world's largest at the time opened at Docklands Studios in Melbourne.",
+      "why": "Stages keep growing, so bigger scenes and vehicles fit inside.",
+      "sources": [
+        19
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Studio to use rear projection",
+      "value": "1930",
+      "who": "Fox Film Corporation, Liliom and Just Imagine"
+    },
+    {
+      "label": "Front projection patents",
+      "value": "1955",
+      "who": "Will F. Jenkins (Murray Leinster), USA"
+    },
+    {
+      "label": "Modern front projection fully developed",
+      "value": "1968",
+      "who": "2001: A Space Odyssey, Elstree Studios, UK"
+    },
+    {
+      "label": "LED light box for a feature film (widely considered)",
+      "value": "2013",
+      "who": "Gravity, Framestore, UK"
+    },
+    {
+      "label": "LED volume for a whole series (widely considered)",
+      "value": "2019",
+      "who": "The Mandalorian, ILM StageCraft, USA"
+    },
+    {
+      "label": "Full-service LED stage in India (as announced)",
+      "value": "2022",
+      "who": "Annapurna Studios and Qube Cinema, Hyderabad"
+    }
+  ],
+  "people": [
+    {
+      "name": "Eugen Schüfftan",
+      "life": "1893 – 1977",
+      "role": "Cinematographer and inventor",
+      "from": "Germany",
+      "note": "His mirror process joined model sets and live actors inside the camera for Metropolis."
+    },
+    {
+      "name": "Willis O'Brien",
+      "life": "1886 – 1962",
+      "role": "Effects artist",
+      "from": "USA",
+      "note": "Brought King Kong to life, combining stop-motion with rear projection."
+    },
+    {
+      "name": "Farciot Edouart",
+      "life": "1894 – 1980",
+      "role": "Process photography expert",
+      "from": "USA",
+      "note": "Made rear projection brighter at Paramount, with several projectors running in sync."
+    },
+    {
+      "name": "Will F. Jenkins",
+      "life": "1896 – 1975",
+      "role": "Writer and inventor",
+      "from": "USA",
+      "note": "Patented front projection, and wrote science fiction as Murray Leinster."
+    },
+    {
+      "name": "Stanley Kubrick",
+      "life": "1928 – 1999",
+      "role": "Film director",
+      "from": "USA, worked in England",
+      "note": "Used front projection to put Africa on a stage for 2001: A Space Odyssey."
+    },
+    {
+      "name": "Emmanuel Lubezki",
+      "life": "born 1964",
+      "role": "Cinematographer",
+      "from": "Mexico",
+      "note": "Lit Gravity's actors from inside a box of LED panels."
+    },
+    {
+      "name": "Tim Sweeney",
+      "life": "born 1970",
+      "role": "Programmer, founder of Epic Games",
+      "from": "USA",
+      "note": "Created the Unreal Engine that later drew the worlds on LED walls."
+    },
+    {
+      "name": "Jon Favreau",
+      "life": "born 1966",
+      "role": "Director and producer",
+      "from": "USA",
+      "note": "Pushed virtual production from The Jungle Book to The Lion King and The Mandalorian."
+    },
+    {
+      "name": "Greig Fraser",
+      "life": "born 1975",
+      "role": "Cinematographer",
+      "from": "Australia",
+      "note": "Helped shape the LED volume for The Mandalorian."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "For King Kong (1933), Fay Wray spent many hours in a fake tree while the monster battle was projected behind her.",
+    "Oblivion's sky was a single white screen 152 m long, lit by 21 projectors.",
+    "The Mandalorian's first volume used 1,326 LED panels, and the picture on them ran about 8 frames behind the camera.",
+    "Epic Games counted about 3 LED stages in 2019 and about 300 by late 2022."
+  ],
+  "sources": [
+    {
+      "title": "Rear projection effect",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rear_projection_effect"
+    },
+    {
+      "title": "Front projection effect",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Front_projection_effect"
+    },
+    {
+      "title": "Schüfftan process",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sch%C3%BCfftan_process"
+    },
+    {
+      "title": "King Kong (1933 film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/King_Kong_(1933_film)"
+    },
+    {
+      "title": "Metropolis (1927 film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Metropolis_(1927_film)"
+    },
+    {
+      "title": "2001: A Space Odyssey (film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)"
+    },
+    {
+      "title": "Unreal Engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Unreal_Engine"
+    },
+    {
+      "title": "Avatar (2009 film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Avatar_(2009_film)"
+    },
+    {
+      "title": "Gravity (2013 film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gravity_(2013_film)"
+    },
+    {
+      "title": "Oblivion (2013 film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oblivion_(2013_film)"
+    },
+    {
+      "title": "The Jungle Book (2016 film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Jungle_Book_(2016_film)"
+    },
+    {
+      "title": "Out of the pages and into The Jungle Book",
+      "publisher": "fxguide",
+      "url": "https://www.fxguide.com/fxfeatured/out-of-the-pages-and-into-the-jungle-book/"
+    },
+    {
+      "title": "First Man's VFX supervisor on archival footage, in-camera effects and the biggest LED screen ever",
+      "publisher": "Motion Picture Association (The Credits)",
+      "url": "https://www.motionpictures.org/2018/10/first-mans-vfx-supervisor-on-archival-footage-in-camera-effects-the-biggest-led-screen-ever/"
+    },
+    {
+      "title": "'First Man' garners DNEG fourth Oscar win in five years",
+      "publisher": "Animation World Network",
+      "url": "https://www.awn.com/news/first-man-garners-dneg-fourth-oscar-win-five-years"
+    },
+    {
+      "title": "The Lion King (2019 film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Lion_King_(2019_film)"
+    },
+    {
+      "title": "Unreal Engine in-camera VFX: a behind-the-scenes look",
+      "publisher": "Epic Games, Unreal Engine",
+      "url": "https://www.unrealengine.com/en-US/spotlights/unreal-engine-in-camera-vfx-a-behind-the-scenes-look"
+    },
+    {
+      "title": "Incredible real-time visual effects tech replaces green screens with LED walls",
+      "publisher": "PetaPixel",
+      "url": "https://petapixel.com/2019/08/22/demo-of-incredible-real-time-visual-effects-using-massive-led-walls/"
+    },
+    {
+      "title": "Art of LED wall virtual production, part one: lessons from the Mandalorian",
+      "publisher": "fxguide",
+      "url": "https://www.fxguide.com/fxfeatured/art-of-led-wall-virtual-production-part-one-lessons-from-the-mandalorian/"
+    },
+    {
+      "title": "StageCraft",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/StageCraft"
+    },
+    {
+      "title": "On-set virtual production",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/On-set_virtual_production"
+    },
+    {
+      "title": "Annapurna Studios and Qube Cinema announce launch of full-service virtual production stage in Hyderabad",
+      "publisher": "Qube Cinema",
+      "url": "https://www.qubecinema.com/news/annapurna-studios-and-qube-cinema-announce-launch-full-service-virtual-production-stage"
+    },
+    {
+      "title": "Virtual Production Stage",
+      "publisher": "Annapurna Studios",
+      "url": "https://www.annapurnastudios.com/virtual-production.html"
+    },
+    {
+      "title": "Black Pearl: the film-centric LED panel",
+      "publisher": "ROE Visual",
+      "url": "https://www.roevisual.com/nl-en/products/black-pearl"
+    }
+  ]
+}

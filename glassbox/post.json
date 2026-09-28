@@ -1,0 +1,126 @@
+{
+  "slug": "virtualprodclear",
+  "box": 64,
+  "question": "How does virtual production work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/virtualprodclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/virtualprodclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From a projector behind a screen in 1930 to walls of LEDs that redraw a world for every move of the camera.\n\n1930: A projector behind the screen\n1933: King Kong's jungle is behind the actors\n1968: Africa on a stage in England\n1998: A game engine is born\n2013: A sky wrapped round the set\n2013: The Light Box\n\nThe full story, with 26 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/virtualprodclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/virtualprodclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #virtualproduction #ledvolume #incameravfx #unrealengine #cameratracking #frustum #history",
+      "youtube": {
+        "title": "The history of virtual production in 45 seconds #shorts",
+        "description": "From a projector behind a screen in 1930 to walls of LEDs that redraw a world for every move of the camera.\n\n1930 · A projector behind the screen (Fox Film Corporation)\n1933 · King Kong's jungle is behind the actors (Willis O'Brien and the RKO effects team)\n1968 · Africa on a stage in England (Stanley Kubrick and his effects team)\n1998 · A game engine is born (Tim Sweeney, Epic Games)\n2013 · A sky wrapped round the set (Claudio Miranda, Joseph Kosinski and Digital Domain)\n2013 · The Light Box (Framestore, Emmanuel Lubezki and Alfonso Cuarón)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/virtualprodclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/virtualprodclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does virtual production work?\n\nThe desert behind the actor is a wall of LEDs, redrawn 24 times a second for exactly where the camera stands. Step inside a working LED volume: move the tracked camera, change the sunset, pull focus onto the pixels, and move a mountain from the brain bar.\n\n→ Virtual production puts a small real set inside a curved wall of LED screens.\n→ The camera is tracked, and the patch of wall it sees is redrawn from its exact spot.\n→ Switch tracking off and the far mountains slide with the wall, like a painted backdrop.\n→ The wall is also the light: change the place, and the actor and chrome change with it.\n→ A green screen throws green light and green reflections, fixed later by hand.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/virtualprodclear (link in bio)\n\nBox No. 064 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #virtualproduction #ledvolume #incameravfx #unrealengine #cameratracking #frustum #parallax #moir #genlock",
+    "carousel": "Swipe through: How does virtual production work?\n\nThe desert behind the actor is a wall of LEDs, redrawn 24 times a second for exactly where the camera stands. Step inside a working LED volume: move the tracked camera, change the sunset, pull focus onto the pixels, and move a mountain from the brain bar.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/virtualprodclear (link in bio).\n\nBox No. 064 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #virtualproduction #ledvolume #incameravfx #unrealengine #cameratracking #frustum",
+    "youtube": {
+      "title": "How does virtual production work? #shorts",
+      "description": "The desert behind the actor is a wall of LEDs, redrawn 24 times a second for exactly where the camera stands. Step inside a working LED volume: move the tracked camera, change the sunset, pull focus onto the pixels, and move a mountain from the brain bar.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/virtualprodclear/\n⌘ Source code (MIT): https://github.com/bdeeps/virtualprodclear\n\nBox No. 064 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does virtual production work? (interactive explainer)",
+      "description": "The desert behind the actor is a wall of LEDs, redrawn 24 times a second for exactly where the camera stands. Step inside a working LED volume: move the tracked camera, change the sunset, pull focus onto the pixels, and move a mountain from the brain bar.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/virtualprodclear/\n⌘ Source code (MIT): https://github.com/bdeeps/virtualprodclear\n\nIn this video:\n• A room made of screens. An LED volume is a curved wall and ceiling of LED panels around a small real set.\n• The wall is drawn for one camera. The camera is tracked by infrared cameras on the truss.\n• The screen is also the light. Millions of LEDs light the set with whatever they show.\n• Dots, delay and limits. The wall is a grid of LEDs about 2.3 to 2.9 mm apart.\n• The brain bar. Engine operators, tracking and screen technicians sit at the brain bar.\n• From rear projection to Hyderabad. Rear projection put filmed roads behind cars from 1930.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does virtual production work?\n\nThe desert behind the actor is a wall of LEDs, redrawn 24 times a second for exactly where the camera stands.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/virtualprodclear/",
+    "linkedin": "How does virtual production work?\n\nThe desert behind the actor is a wall of LEDs, redrawn 24 times a second for exactly where the camera stands. Step inside a working LED volume: move the tracked camera, change the sunset, pull focus onto the pixels, and move a mountain from the brain bar.\n\n1. A room made of screens\n2. The wall is drawn for one camera\n3. The screen is also the light\n4. Dots, delay and limits\n5. The brain bar\n6. From rear projection to Hyderabad\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 064 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/virtualprodclear/\nCode: https://github.com/bdeeps/virtualprodclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-28T03:29:26.056Z"
+}

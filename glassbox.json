@@ -1,0 +1,107 @@
+{
+  "slug": "virtualprodclear",
+  "box": 64,
+  "date": "2026-10-22",
+  "title": "VirtualProdClear",
+  "question": "How does virtual production work?",
+  "hook": "The desert behind the actor is a wall of LEDs, redrawn 24 times a second for exactly where the camera stands. Step inside a working LED volume: move the tracked camera, change the sunset, pull focus onto the pixels, and move a mountain from the brain bar.",
+  "thumbText": "HOW LED STAGES WORK",
+  "field": "film",
+  "minutes": 15,
+  "tags": [
+    "virtual production",
+    "LED volume",
+    "in-camera VFX",
+    "Unreal Engine",
+    "camera tracking",
+    "frustum",
+    "parallax",
+    "moiré",
+    "genlock",
+    "filmmaking",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A room made of screens",
+      "text": "An LED volume is a curved wall and ceiling of LED panels around a small real set. A game engine draws a 3D place on it. The real floor and props are matched to the virtual ground, so the camera films one seamless world, final in camera. A green screen is cheaper and more flexible, but gives no real light or reflections."
+    },
+    {
+      "title": "The wall is drawn for one camera",
+      "text": "The camera is tracked by infrared cameras on the truss. The patch of wall it sees, the inner frustum, is redrawn from the lens's exact position every frame, so near things slide and far mountains stay put: true parallax. Switch tracking off and the world slides like a painted backdrop."
+    },
+    {
+      "title": "The screen is also the light",
+      "text": "Millions of LEDs light the set with whatever they show. A sunset makes faces warm; a night city throws neon; chrome reflects the real world instead of green. But a wall peaks around 1,800 nits, only a few thousand lux, against about 100,000 lux from the sun, so film lights still add fill and sunlight."
+    },
+    {
+      "title": "Dots, delay and limits",
+      "text": "The wall is a grid of LEDs about 2.3 to 2.9 mm apart. If it is in focus, the grid beats against the sensor's grid and makes moiré, so the wall is kept soft. Tracking and rendering take several frames, around 8 on early stages, so fast pans need overscan. LEDs also make narrow-band colour."
+    },
+    {
+      "title": "The brain bar",
+      "text": "Engine operators, tracking and screen technicians sit at the brain bar. They move the sun, repeat golden hour all day and move a mountain in seconds. The virtual art department built the world weeks before. Genlock makes camera, engine and LEDs tick together so no tear rolls through the shot."
+    },
+    {
+      "title": "From rear projection to Hyderabad",
+      "text": "Rear projection put filmed roads behind cars from 1930. Front projection, Oblivion's projected sky and Gravity's light box led to The Mandalorian's StageCraft volume in 2019. Since 2020 hundreds of stages have opened, including Annapurna Studios' LED stage in Hyderabad. Driving shots are one of their biggest uses."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "LED volume",
+      "def": "A stage surrounded by LED walls and often a ceiling, showing a live 3D world."
+    },
+    {
+      "term": "In-camera VFX",
+      "def": "Capturing the finished effect through the lens on set, instead of adding it later."
+    },
+    {
+      "term": "Camera tracking",
+      "def": "Measuring where the camera is and where it points, many times a second."
+    },
+    {
+      "term": "Inner frustum",
+      "def": "The patch of wall the camera sees, drawn in full quality from the camera's own position."
+    },
+    {
+      "term": "Outer frustum",
+      "def": "The rest of the wall, drawn from a fixed point and used mainly for light and reflections."
+    },
+    {
+      "term": "Parallax",
+      "def": "Near things shift more than far things when the viewpoint moves; it is how depth shows."
+    },
+    {
+      "term": "Pixel pitch",
+      "def": "The distance between neighbouring LED pixels, around 2.3 to 2.9 mm on film stages."
+    },
+    {
+      "term": "Moiré",
+      "def": "False stripes when the LED grid and the camera sensor's grid interfere."
+    },
+    {
+      "term": "Genlock",
+      "def": "A shared timing signal so camera, engine and screens start every frame together."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "virtualprodclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
